@@ -1,0 +1,74 @@
+{
+  "com.spotify.tv.android": {
+    "file": "com.spotify.tv.android.png",
+    "logo": "Spotify 2008-2012 logo: white wordmark with sound-wave arcs on green rounded square",
+    "source": "https://commons.wikimedia.org/wiki/File:Spotify_logo_2008–2012.svg",
+    "transparent": false
+  },
+  "com.google.android.youtube.tv": {
+    "file": "com.google.android.youtube.tv.png",
+    "logo": "YouTube 2006-2011 logo (glossy 'You' black + 'Tube' red box)",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_YouTube_(2006-2011)_realtext.svg",
+    "transparent": true
+  },
+  "com.netflix.ninja": {
+    "file": "com.netflix.ninja.png",
+    "logo": "Netflix 2001-2014 logo: white block letters with black shadow on red rectangle",
+    "source": "https://commons.wikimedia.org/wiki/File:Netflix_logo.svg",
+    "transparent": false
+  },
+  "com.disney.disneyplus": {
+    "file": "com.disney.disneyplus.png",
+    "logo": "Firma clásica de Disney",
+    "source": "https://commons.wikimedia.org/wiki/File:Disney_wordmark.svg",
+    "transparent": true
+  },
+  "com.wbd.stream": {
+    "file": "com.wbd.stream.png",
+    "logo": "HBO classic black block wordmark (1990s-2010s)",
+    "source": "https://commons.wikimedia.org/wiki/File:HBO_logo.svg",
+    "transparent": true
+  },
+  "com.amazon.amazonvideo.livingroom": {
+    "file": "com.amazon.amazonvideo.livingroom.png",
+    "logo": "Amazon Instant Video logo (c.2011-2015), amazon wordmark with green play button",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazon-Instant-Video.png",
+    "transparent": true
+  },
+  "com.android.vending": {
+    "file": "com.android.vending.png",
+    "logo": "Android Market 2007-2008 wordmark ('android market', blue). NOT the shopping-bag icon: not found on Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Android_Market_logo_(2007).svg",
+    "transparent": true
+  },
+  "com.antena3.atresplayer.tv": {
+    "file": "com.antena3.atresplayer.tv.png",
+    "logo": "Antena 3 logo 1997 (colour triangle/fan emblem + 'Antena 3' serif); not exactly the 2004-2010 version",
+    "source": "https://commons.wikimedia.org/wiki/File:Antena_3_logo_1997.svg",
+    "transparent": true
+  },
+  "com.crunchyroll.crunchyroid": {
+    "file": "com.crunchyroll.crunchyroid.png",
+    "logo": "Crunchyroll 2006 logo (orange circle + 'crunchyroll' handwritten wordmark)",
+    "source": "https://commons.wikimedia.org/wiki/File:Crunchyroll_logo_2006.svg",
+    "transparent": true
+  },
+  "com.movistarplus.androidtv": {
+    "file": "com.movistarplus.androidtv.png",
+    "logo": "Movistar 2004-2020 (M verde)",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Movistar.svg",
+    "transparent": true
+  },
+  "com.rtve.androidtv": {
+    "file": "com.rtve.androidtv.png",
+    "logo": "RTVE 1991-2008 logo (white 'rtve' on grey square)",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_RTVE_(1991-2008).svg",
+    "transparent": false
+  },
+  "com.google.android.youtube.tvmusic": {
+    "file": "com.google.android.youtube.tvmusic.png",
+    "logo": "YouTube 2011-2013 logo (same family; 'You' black + 'Tube' dark-red box)",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_YouTube_(2011-2013).svg",
+    "transparent": true
+  }
+}

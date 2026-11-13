@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <layer-list>
+            <item android:drawable="@drawable/w98_set_box"/>
+            <item android:drawable="@drawable/w98_set_tick"/>
+        </layer-list>
+    </item>
+    <item android:drawable="@drawable/w98_set_box"/>
+</selector>

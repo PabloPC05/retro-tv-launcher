@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App library: the dotted focus rectangle around the focused icon. -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:inset="1dp">
+    <shape android:shape="rectangle">
+        <stroke android:width="2dp" android:color="#FF000000" android:dashWidth="2dp" android:dashGap="2dp"/>
+    </shape>
+</inset>

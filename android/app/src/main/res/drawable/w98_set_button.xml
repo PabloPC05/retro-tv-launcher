@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Push button: raised; focused = pushed in with the navy highlight inside. -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <layer-list>
+            <item android:drawable="@drawable/w98_pressed"/>
+            <item android:left="4dp" android:top="4dp" android:right="4dp" android:bottom="4dp"><shape><solid android:color="#FF000080"/></shape></item>
+        </layer-list>
+    </item>
+    <item android:drawable="@drawable/w98_raised"/>
+</selector>
